@@ -1,3 +1,7 @@
 database.txt
 
 thirdFolder/thirdFiles1.html
+
+fourthFolder/*
+
+!fourthFolder/fourthFiles1.html
